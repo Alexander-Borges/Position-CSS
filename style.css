@@ -1,0 +1,41 @@
+.container{
+    width: 960px;
+    margin: 0 auto;
+    background-color: lightgray;
+    padding: 25px;
+    border-top: 5px solid blue;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+
+
+img.kat {
+    height: 200px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    margin: 25px;
+    padding: 25px;
+}
+
+.powder {
+    background-color: powderblue;
+    justify-content: space-evenly;
+    
+}
+
+.aqua {
+    background-color: aqua;
+    justify-content: space-between;
+}
+
+.almond {
+    background-color: plum;
+    justify-content: space-around;
+}
